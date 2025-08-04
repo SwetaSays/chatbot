@@ -1,5 +1,4 @@
-# table_ai
-
+# chatbot
 A  Flutter project for openAI.
 
 ## Getting Started
